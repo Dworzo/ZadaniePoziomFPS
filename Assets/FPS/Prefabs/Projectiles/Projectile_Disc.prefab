@@ -182,8 +182,8 @@ MonoBehaviour:
     min: 80
     max: 350
   radius:
-    min: 0.2
-    max: 0.2
+    min: 0.5
+    max: 0.5
   speed:
     min: 20
     max: 40

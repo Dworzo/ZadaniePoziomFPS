@@ -429,7 +429,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e27364eefd6dd0341ba72a3bfc0d9727, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxHealth: 100
+  maxHealth: 300
   criticalHealthRatio: 0.3
 --- !u!114 &298744117520805562
 MonoBehaviour:
@@ -755,6 +755,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7fe6ab9a06bb1b44b6cab4efaeaa014, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  instructions: {fileID: 0}
 --- !u!1 &7383874627095517793
 GameObject:
   m_ObjectHideFlags: 0
