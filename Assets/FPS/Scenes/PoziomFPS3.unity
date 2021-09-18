@@ -95506,6 +95506,7 @@ GameObject:
   - component: {fileID: 1980126267}
   - component: {fileID: 1980126266}
   - component: {fileID: 1980126265}
+  - component: {fileID: 1980126269}
   m_Layer: 12
   m_Name: LiftTrigger1
   m_TagString: Lift
@@ -95524,8 +95525,8 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
+  m_Size: {x: 1.610769, y: 0.8035761, z: 1.146168}
+  m_Center: {x: -2.4318657, y: -1.2312571, z: -0.0059870672}
 --- !u!23 &1980126266
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -95588,6 +95589,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1440
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &1980126269
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1980126264}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.96376944, y: 1, z: 0.9999999}
+  m_Center: {x: 0.01811995, y: 0, z: 0}
 --- !u!1001 &1982782322
 PrefabInstance:
   m_ObjectHideFlags: 0
