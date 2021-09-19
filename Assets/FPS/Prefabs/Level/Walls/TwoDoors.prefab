@@ -14,7 +14,7 @@ GameObject:
   m_TagString: Untagged
   m_Icon: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 4294967295
   m_IsActive: 1
 --- !u!4 &9195509264573045995
 Transform:
@@ -39,6 +39,16 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 9195509264573045995}
     m_Modifications:
+    - target: {fileID: 3869263894509800787, guid: ed75c38e1c83e22489a6076be832482e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 3869263894615536083, guid: ed75c38e1c83e22489a6076be832482e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 3869263895285240571, guid: ed75c38e1c83e22489a6076be832482e,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -99,6 +109,26 @@ PrefabInstance:
       propertyPath: m_Name
       value: DoorxR
       objectReference: {fileID: 0}
+    - target: {fileID: 3869263895285240574, guid: ed75c38e1c83e22489a6076be832482e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 3869263895629259058, guid: ed75c38e1c83e22489a6076be832482e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 3869263895673023335, guid: ed75c38e1c83e22489a6076be832482e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 3869263895888097452, guid: ed75c38e1c83e22489a6076be832482e,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ed75c38e1c83e22489a6076be832482e, type: 3}
 --- !u!4 &6044464264417718691 stripped
@@ -114,6 +144,31 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 9195509264573045995}
     m_Modifications:
+    - target: {fileID: 4848713568315318062, guid: 03a24189c28db5148837764438058407,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 4848713568575786672, guid: 03a24189c28db5148837764438058407,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 4848713568608044261, guid: 03a24189c28db5148837764438058407,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 4848713569730551377, guid: 03a24189c28db5148837764438058407,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 4848713569894277841, guid: 03a24189c28db5148837764438058407,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
+      objectReference: {fileID: 0}
     - target: {fileID: 4848713570127641977, guid: 03a24189c28db5148837764438058407,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -173,6 +228,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: DoorxL
+      objectReference: {fileID: 0}
+    - target: {fileID: 4848713570127641980, guid: 03a24189c28db5148837764438058407,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 03a24189c28db5148837764438058407, type: 3}
